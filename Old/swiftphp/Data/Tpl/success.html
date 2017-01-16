@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<?php echo $msg ?><br>
+页面将在<span id="ntime"><?php echo $time ?></span>秒后跳转
+<script>
+    var ntime = document.getElementById("ntime").innerHTML;
+    var load = setInterval(function(){
+        ntime--;
+        if(ntime>0){
+            document.getElementById("ntime").innerHTML = ntime;
+        }else{
+        <?php echo $url ?>;
+        }
+    },1000);
+</script>
+</body>
+</html>

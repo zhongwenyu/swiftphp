@@ -1,0 +1,5 @@
+有疑问的地方
+手册：http://www.kancloud.cn/manual/thinkphp5/118003
+
+1.Request->input()
+2.Request->pathinfo()

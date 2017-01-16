@@ -1,0 +1,33 @@
+[TIME]:2017-01-14 09:23:18ERROR:E:/wamp/www/swiftphp/SwiftPHP/Extends/Tool/IndexController.class.php 类未找到
+[TIME]:2017-01-14 09:23:56ERROR:E:/wamp/www/swiftphp/SwiftPHP/Extends/Tool/IndexController.class.php 类未找到
+[TIME]:2017-01-14 09:24:09ERROR:E:/wamp/www/swiftphp/SwiftPHP/Extends/Tool/IndexController.class.php 类未找到
+[TIME]:2017-01-14 09:25:05ERROR:E:/wamp/www/swiftphp/SwiftPHP/Extends/Tool/IndexController.class.php 类未找到
+[TIME]:2017-01-14 09:25:11ERROR:E:/wamp/www/swiftphp/SwiftPHP/Extends/Tool/IndexController.class.php 类未找到
+[TIME]:2017-01-14 09:26:02ERROR:E:/wamp/www/swiftphp/SwiftPHP/Extends/Tool/IndexController.class.php 类未找到
+[TIME]:2017-01-14 09:26:08ERROR:E:/wamp/www/swiftphp/SwiftPHP/Extends/Tool/IndexController.class.php 类未找到
+[TIME]:2017-01-14 09:26:19ERROR:E:/wamp/www/swiftphp/SwiftPHP/Extends/Tool/IndexController.class.php 类未找到
+[TIME]:2017-01-14 11:02:24ERROR:删除语句必须有where条件
+[TIME]:2017-01-14 11:08:34ERROR:请用execute方法
+[TIME]:2017-01-14 11:08:57ERROR:请用execute方法
+[TIME]:2017-01-14 11:09:50ERROR:请用execute方法
+[TIME]:2017-01-14 11:10:18ERROR:请用execute方法
+[TIME]:2017-01-14 11:10:54ERROR:请用execute方法
+[TIME]:2017-01-14 11:16:58ERROR:SQLSTATE[42S02]：1146 Table 'oneshop.yw_ffg' doesn't exist
+[TIME]:2017-01-14 11:16:59ERROR:SQLSTATE[42S02]：1146 Table 'oneshop.yw_ffg' doesn't exist
+[TIME]:2017-01-14 11:17:00ERROR:SQLSTATE[42S02]：1146 Table 'oneshop.yw_ffg' doesn't exist
+[TIME]:2017-01-14 11:17:34ERROR:SQLSTATE[42S02]：1146 Table 'oneshop.yw_gg' doesn't exist
+[TIME]:2017-01-14 11:17:45ERROR:SQLSTATE[42S02]：1146 Table 'oneshop.yw_gg' doesn't exist
+[TIME]:2017-01-14 11:17:50ERROR:SQLSTATE[42S22]：1054 Unknown column 'fdgrt' in 'field list'
+[TIME]:2017-01-14 11:21:01ERROR:SQLSTATE[42S22]：1054 SQL语句 insert into yw_files values(fdgrt) Unknown column 'fdgrt' in 'field list'
+[TIME]:2017-01-14 11:21:18ERROR:SQLSTATE[42S22]：1054 SQL语句 insert into yw_files values(fdgrt) 错误：Unknown column 'fdgrt' in 'field list'
+[TIME]:2017-01-14 12:28:17ERROR:SQLSTATE[42S22]：1054 SQL语句 insert into yw_files (`savename`,`userid`) values (`gre`,`6`) 错误：Unknown column 'gre' in 'field list'
+[TIME]:2017-01-14 12:29:38ERROR:SQLSTATE[42S22]：1054 SQL语句 insert into yw_files (`savename`,`userid`) values (gre,6) 错误：Unknown column 'gre' in 'field list'
+[TIME]:2017-01-14 12:30:13ERROR:SQLSTATE[42S22]：1054 SQL语句 insert into yw_files (`savename`,`userid`) values (`gre`,`6`) 错误：Unknown column 'gre' in 'field list'
+[TIME]:2017-01-14 12:31:29ERROR:SQLSTATE[42S22]：1054 SQL语句 insert into yw_files (`savename`,`userid`) values (`4`,`6`) 错误：Unknown column '4' in 'field list'
+[TIME]:2017-01-14 12:32:12ERROR:SQLSTATE[42S22]：1054 SQL语句 insert into yw_files (`savename`,`userid`) values (`4`,`6`) 错误：Unknown column '4' in 'field list'
+[TIME]:2017-01-14 12:32:17ERROR:SQLSTATE[42S22]：1054 SQL语句 insert into yw_files (`savename`,`userid`) values(`4`,`6`) 错误：Unknown column '4' in 'field list'
+[TIME]:2017-01-14 12:32:25ERROR:SQLSTATE[42S22]：1054 SQL语句 insert into yw_files (`savename`,`userid`) values ('derer',`6`) 错误：Unknown column '6' in 'field list'
+[TIME]:2017-01-14 12:33:06ERROR:SQLSTATE[42S22]：1054 SQL语句 insert into yw_files (`savename`,`userid`) values (derer,34) 错误：Unknown column 'derer' in 'field list'
+[TIME]:2017-01-14 15:43:53ERROR:E:/wamp/www/swiftphp/Home/Tpl/Index/index.html 模板文件不存在
+[TIME]:2017-01-14 15:45:47ERROR:E:/wamp/www/swiftphp/Home/Tpl/Index/index.html 模板文件不存在
+[TIME]:2017-01-14 15:48:38ERROR:E:/wamp/www/swiftphp/Home/Tpl/Index/index.html 模板文件不存在
